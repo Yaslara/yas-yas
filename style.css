@@ -37,7 +37,35 @@
 
  .escola-div-conteudo{
     width: 35%;
+    text-align: center;
  }
 .escola-titulo{
     padding: 24px 0;
 }
+.escola-imagem{
+    width: 25%;
+    
+}
+.estudante-imagem{
+    width: 5%;
+    text-align: center;
+}
+.estudante-icone{
+    width: 5%;
+}
+.rodape{
+    background-color: black;
+    text-align: center;
+}
+.rodape-imagem{
+    height: 60px;
+    padding: 12px 0;
+ }
+
+ .estudante-div{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+ }
+
+    
