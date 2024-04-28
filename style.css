@@ -33,39 +33,46 @@
     align-items: center;
     padding: 24px 0;
 }
-
-
- .escola-div-conteudo{
-    width: 35%;
-    text-align: center;
- }
-.escola-titulo{
+.escola-texto-um{
+    width: 65%;
+    
+}
+.escola-texto-dois{
+    width: 70%;
+}
+estudante-titulo{
     padding: 24px 0;
+    width: 30%;
 }
 .escola-imagem{
     width: 25%;
     
 }
 .estudante-imagem{
-    width: 5%;
+    width: 200px;
     text-align: center;
 }
 .estudante-icone{
-    width: 5%;
+    width: 30px ;
 }
 .rodape{
     background-color: black;
     text-align: center;
+    
 }
 .rodape-imagem{
-    height: 60px;
+    height: 50px;
     padding: 12px 0;
  }
 
  .estudante-div{
-    justify-content: center;
-    align-items: center;
-    display: flex;
+    text-align: center;
  }
+.estudante-todos{
+    display: grid;
+    grid-template-columns:25% 25% 25%;
+    padding: 50px 0;
+}
+
 
     
